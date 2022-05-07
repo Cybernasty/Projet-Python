@@ -1,0 +1,14 @@
+(venv) C:\Users\monta\OneDrive\Bureau\django\venv>scirpts\activate
+(venv) C:\Users\monta\OneDrive\Bureau\django\venv>cd src
+Serveur django: python manage.py runserver
+Connexion postgre sql: psql chat sarra mdp: sarra2022
+http://127.0.0.1:8000/admin
+http://127.0.0.1:8000/
+http://127.0.0.1:8000/account/3
+http://127.0.0.1:8000/register
+http://127.0.0.1:8000/login
+python manage.py migrate
+
+
+
+
